@@ -48,9 +48,9 @@ And we solve this problem by:
 ## Visualization
 The following image is our interface. And compared to SBB plan, we can see that our planner can find correct path.
 
-![interface](https://git-dslab.epfl.ch/dslabduiwu/finalproject/blob/master/image/interface.png)
+![interface](https://github.com/GentleDell/Robust-Journey-Planning/blob/master/image/interface.png)
 
-![SBB](https://git-dslab.epfl.ch/dslabduiwu/finalproject/blob/master/image/SBB.jpg)
+![SBB](https://github.com/GentleDell/Robust-Journey-Planning/blob/master/image/SBB.jpg)
 
 
 
